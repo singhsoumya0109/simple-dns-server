@@ -1,0 +1,27 @@
+{
+  "name": "dns-server",
+  "version": "1.0.0",
+  "description": "A basic dns-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engineerhead/dns-server.git"
+  },
+  "keywords": [
+    "dns",
+    "node"
+  ],
+  "author": "Sugata Laha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engineerhead/dns-server/issues"
+  },
+  "homepage": "https://github.com/engineerhead/dns-server#readme",
+  "dependencies": {
+    "dns-packet": "^5.6.1",
+    "nodemon": "^3.1.7"
+  }
+}
